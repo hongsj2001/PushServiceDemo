@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "940536060541",
+    "firebase_url": "https://pushtest-e4d35-default-rtdb.firebaseio.com",
+    "project_id": "pushtest-e4d35",
+    "storage_bucket": "pushtest-e4d35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940536060541:android:7663b951d8de1d272b6f14",
+        "android_client_info": {
+          "package_name": "org.techtown.pushpushbaby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940536060541-9irv20hg58d6012uut84s3e60jj59sut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeHDMY66RTD25iV_vIWQKuKGsVxNhMdw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940536060541-9irv20hg58d6012uut84s3e60jj59sut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940536060541:android:00b7d9ffb8f54e342b6f14",
+        "android_client_info": {
+          "package_name": "org.techtown.pushpushbabycomeon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940536060541-9irv20hg58d6012uut84s3e60jj59sut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeHDMY66RTD25iV_vIWQKuKGsVxNhMdw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940536060541-9irv20hg58d6012uut84s3e60jj59sut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940536060541:android:3b3479d17cf1722b2b6f14",
+        "android_client_info": {
+          "package_name": "org.techtown.pushservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940536060541-9irv20hg58d6012uut84s3e60jj59sut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeHDMY66RTD25iV_vIWQKuKGsVxNhMdw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940536060541-9irv20hg58d6012uut84s3e60jj59sut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
